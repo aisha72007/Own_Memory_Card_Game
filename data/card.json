@@ -1,0 +1,42 @@
+[
+  {
+    "image": "../assets/blueberries.png",
+    "name": "blueberries"
+  },
+  {
+    "image": "../assets/carrot.png",
+    "name": "carrot"
+  },
+  {
+    "image": "../assets/cucumber.png",
+    "name": "cucumber"
+  },
+  {
+    "image": "../assets/garlic.png",
+    "name": "garlic"
+  },
+  {
+    "image": "../assets/pineapple.png",
+    "name": "pineapple"
+  },
+  {
+    "image": "../assets/potato.png",
+    "name": "potato"
+  },
+  {
+    "image": "../assets/red_berries.png",
+    "name": "red_berries"
+  },
+  {
+    "image": "../assets/strawberry.png",
+    "name": "strawberry"
+  },
+  {
+    "image": "../assets/tomato.png",
+    "name": "tomato"
+  },
+  {
+    "image": "../assets/watermelon.png",
+    "name": "watermelon"
+  }
+]
