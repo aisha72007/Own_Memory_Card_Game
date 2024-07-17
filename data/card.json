@@ -30,13 +30,5 @@
   {
     "image": "../assets/strawberry.png",
     "name": "strawberry"
-  },
-  {
-    "image": "../assets/tomato.png",
-    "name": "tomato"
-  },
-  {
-    "image": "../assets/watermelon.png",
-    "name": "watermelon"
   }
 ]
